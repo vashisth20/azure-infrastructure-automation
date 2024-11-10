@@ -25,3 +25,13 @@ This repository contains a collection of scripts for automating Azure cloud infr
    ```bash
    git clone https://github.com/vashisth20/azure-infrastructure-automation.git
     ```
+
+2. Choose the IaC tool (Bicep, Terraform, or ARM templates) and navigate to the corresponding directory.
+
+3. Follow the respective setup and deployment instructions in the directory `README` files.
+
+## Contributing
+Contributions are welcome! If you'd like to improve or extend the scripts, feel free to submit a pull request. Please follow the existing structure and document any changes made.
+
+## License
+This project is licensed under the MIT [License](./LICENSE) file for details.
